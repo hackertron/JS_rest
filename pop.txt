@@ -1,0 +1,6 @@
+{
+	"name" : "Ryu",
+	"rank" : "red belt",
+	"available" : true,
+	"geometry" : {"type": "point", "coordinates": [-80, 25.791]}
+}
